@@ -61,11 +61,3 @@ A smart content publishing platform powered by AI — enabling users to write, g
 
 ---
 
-## 🙋‍♂️ Author
-
-**Sujal Sinha**  
-Aspiring Software Engineer | Open Source Contributor | AI & Web Dev Enthusiast  
-📫 Contact: [LinkedIn](https://www.linkedin.com/in/sujal-sinha-a22504250/)
-
----
-
