@@ -2,7 +2,6 @@
 
 A smart content publishing platform powered by AI — enabling users to write, generate, and share insights on topics like startups, technology, lifestyle, and finance. InsightWell AI streamlines blogging with AI assistance, intuitive workflows, and moderated publishing.
 
-🔗 **Live Demo**: [https://insight-well-ai-client.vercel.app/](https://insight-well-ai-client.vercel.app/)
 
 ---
 
@@ -52,12 +51,6 @@ A smart content publishing platform powered by AI — enabling users to write, g
 - Rich text editor support
 - Like/upvote system for blogs and comments
 - Analytics dashboard for admin
-
----
-
-## 📍 Live Link
-
-👉 [https://insight-well-ai-client.vercel.app/](https://insight-well-ai-client.vercel.app/)
 
 ---
 
